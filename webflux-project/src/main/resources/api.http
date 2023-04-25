@@ -1,0 +1,23 @@
+### flux
+
+GET localhost:8080/flux
+
+### fluxstream
+
+GET localhost:8080/fluxstream
+
+### findAll
+
+GET localhost:8080/customer
+
+### findById
+
+GET localhost:8080/customer/1
+
+### findAllSSE
+
+GET localhost:8080/customer/sse
+
+### save
+
+POST localhost:8080/customer
